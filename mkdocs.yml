@@ -6,16 +6,17 @@ theme:
   name: material
 
 nav:
-    - 'Home': index.md
-    - 'User Guide':
-        - 'Set things up': '00_set_things_up.md'
-        - 'The first job': '01_the_first_job.md'
-        - 'When things go wrong': '02_when_things_go_wrong.md'
-        - "Hold your horses!": '03_hold_your_horses.md'
+  - 'Home': index.md
+  - 'User Guide':
+      - 'Set things up': '00_set_things_up.md'
+      - 'The first job': '01_the_first_job.md'
+      - 'When things go wrong': '02_when_things_go_wrong.md'
+      - "Hold your jobs!": '03_hold_your_horses.md'
 
 
 markdown_extensions:
   - 'admonition'
   - 'codehilite'
+  - 'pymdownx.tilde'
   - toc:
       permalink: true
