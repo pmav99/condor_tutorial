@@ -11,4 +11,4 @@ In order to use JEO-Batch you must have:
 - access to the [JEO-Desk](https://jeodpp.jrc.ec.europa.eu/apps/gitlab/for-everyone/documentation/-/wikis/Jeodpp_services/Jeodesk/JEODPP-Desktop-Terminal-Service)
 - basic linux terminal knowledge
 
-Assuming you have these, you can proceed to the [User Guide](00_set_things_up)
+Assuming you have these, you can proceed to the User Guide.
