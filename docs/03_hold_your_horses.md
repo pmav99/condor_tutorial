@@ -1,10 +1,13 @@
 # Hold your ~~horses~~ jobs
 
 Sometimes, after submitting a job, `condor_q` will show that the job is under the `HOLD` column.
-This implies that there is some sort of a problem
-
+This implies that there is some sort of a problem.
 The problem can be in the `job_description` file, in the docker image that you chose, in the script
 that you executed etc.
+
+!!! tip
+
+    A really common case is that too many resources (e.g. RAM) was requested
 
 ## A job that ends up in HOLD
 
