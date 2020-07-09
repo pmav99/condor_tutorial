@@ -127,7 +127,6 @@ Now that the job has been finished, there should be 3 new files in our working d
     Obviously, the `JOB_ID` of your files will be different. Please adjust as necessary.
 
 ``` bash
-
 $ ls -lah hello*
 
 -rw-r--r-- 1 ghslproc EC_JRC_P_GHSL   0 Jul  9 10:42 hello.40152.0.err
@@ -158,5 +157,5 @@ Congratulations! You just managed to use JEO-Batch successfully!
 Just remove the log files with:
 
 ``` bash
-rm -rf hello*
+rm -f hello*
 ```
