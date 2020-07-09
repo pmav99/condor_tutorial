@@ -10,7 +10,7 @@ nav:
     - 'User Guide':
         - 'Set things up': '00_set_things_up.md'
         - 'The first job': '01_the_first_job.md'
-        - 'The second job': '02_the_second_job.md'
+        - 'When things go wrong': '02_when_things_go_wrong.md'
 
 
 markdown_extensions:
