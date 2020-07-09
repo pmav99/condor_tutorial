@@ -12,6 +12,7 @@ nav:
       - 'The first job': '01_the_first_job.md'
       - 'When things go wrong': '02_when_things_go_wrong.md'
       - "Hold your jobs!": '03_hold_your_horses.md'
+      - "Copy files over": '04_copy_files_over.md'
 
 
 markdown_extensions:
